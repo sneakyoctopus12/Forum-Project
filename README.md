@@ -13,14 +13,14 @@ ___
 * Registration page. (Functionality) 	✓
 * CSS styling for each web front end page. (Design) 	✓
 * Proper sanitizing of forms in the login/register pages. (Security) 	✓
-* Fast forward button for 'repeat password' field during registration. (Conveniance)  	✓
+* Fast forward button for 'repeat password' field during registration. (Convenience)  	✓
 * Flash archive that consists of a Flash loader and Flash uploader. (Entertainment & Customizable) 	✓
 * Password security page, for hashing passwords with a variety of available algorithms. (Feature)  	✓
-* Ability to delete your own user account. (Conveniance)  	✓
-* User notifications such as online/offline/busy/registered status. (Conveniance) 	✓
+* Ability to delete your own user account. (Convenience)  	✓
+* User notifications such as online/offline/busy/registered status. (Convenience) 	✓
 * Geographical location data based on the IP of users and flag icons depicting each country. (Feature) 	✓
-* User sessions with protections such as hijack block. (Conveniance & Security)
-* Profile editor. (Conveniance)
+* User sessions with protections such as hijack block. (Convenience & Security)
+* Profile editor. (Convenience)
 * New encryption algorithm implementation. (Cryptography)
 * Two-factor authentication for user accounts. (Security)
 * E-mail confirmation upon registration. (User-friendliness)
